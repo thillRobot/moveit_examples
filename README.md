@@ -1,2 +1,2 @@
 # using_moveit
-thillRobot notes for using Moveit with ROS
+thillRobot notes and examples for using Moveit with ROS
